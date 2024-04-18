@@ -1,7 +1,9 @@
-# Simple Beeminder Extension
+## Simple Beeminder Extension
 
-Simple Beeminder is a Chrome extension that provides a streamlined interface for easy data input on Beeminder.
+Simple Beeminder is a chrome extension that provides a streamlined interface for easy data input on Beeminder.
 
+![example | 600](./images/example.jpg)
+![example_popup](./images/example_popup.jpg)
 ## Installation
 
 1. Download the extension from the Chrome Web Store or from the GitHub releases page.
@@ -20,3 +22,5 @@ Simple Beeminder is a Chrome extension that provides a streamlined interface for
 6. Use the simplified input form to update your progress and add comments to your goals.
 
 **Note:** This extension is specifically designed for Chrome. It is not tested on other browsers.
+
+![icon](./images/icon128.png)
