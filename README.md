@@ -1,4 +1,4 @@
-## Simple Beeminder Extension
+## Simple Beeminder Extension 🏃💨 🐝🐝🐝
 
 Simple Beeminder is a chrome extension that provides a streamlined interface for easy data input on Beeminder.  
 
@@ -7,7 +7,7 @@ Simple Beeminder is a chrome extension that provides a streamlined interface for
 ![example_popup](./images/example_popup.jpg)  
 ## Installation
 
-1. Download the extension from the Chrome Web Store or from the GitHub releases page.
+1. Download the extension from the GitHub releases page.
 2. Open Chrome and go to `chrome://extensions/`.
 3. Enable Developer Mode in the top right corner.
 4. Drag and drop the downloaded extension file (.zip) onto the extensions page.
