@@ -1,2 +1,4 @@
 # Ignore zip files
 *.zip
+*.crx
+*.pem
