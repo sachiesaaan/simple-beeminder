@@ -1,4 +1,4 @@
-This extention is # Simple Beeminder Extension
+# Simple Beeminder Extension
 
 Simple Beeminder is a Chrome extension that provides a streamlined interface for easy data input on Beeminder.
 
